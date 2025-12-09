@@ -1,4 +1,4 @@
-#Sistema Bancário em Java
+# Sistema Bancário em Java
 
 Este projeto é um sistema bancário básico desenvolvido em Java, com foco em treinar lógica de programação e conceitos iniciais de Programação Orientada a Objetos.
 A aplicação roda inteiramente dentro da classe Main, permitindo executar operações bancárias de forma simples e direta.
